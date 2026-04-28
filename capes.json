@@ -1,0 +1,17 @@
+{
+  "_comment": "Dev-controlled cape registry. Edit `owners` tcleo grant capes to specific players. Use \"*\" to grant to everyone, or list usernames / lowercase UUIDs (dashes optional).",
+  "capes": [
+    {
+      "id": "cascade_alpha",
+      "name": "Cascade Alpha",
+      "texture": "cascade:textures/capes/cascade_alpha.png",
+      "owners": ["*"]
+    },
+    {
+      "id": "cascade_owner",
+      "name": "Cascade Owner",
+      "texture": "cascade:textures/capes/cascade_owner.png",
+      "owners": ["*"]
+    }
+  ]
+}
